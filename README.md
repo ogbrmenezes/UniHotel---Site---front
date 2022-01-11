@@ -6,9 +6,9 @@
 
 
 - Site Unihotel 
-
-<p align= "center"> <img src="blob:https://web.whatsapp.com/2f9e450d-8d45-4327-b135-f2a5a62c1b41"/> Logo abaixo veja a tela inicial do site</p> 
-
+ <p align="center">
+  <img src="https://drive.google.com/file/d/1BUSDY2LxfJ6_mCsp4a8dtsjtG0DFLXcl/view?usp=sharing" />
+</p>
 
   
   <div>
