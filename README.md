@@ -2,5 +2,5 @@
 
 - Unihotel
 Reserva de quartos : solteiro e casado
-Area de lazer : piscina, academia e praça
+Area de lazer : piscina, academia 
 restaurante
